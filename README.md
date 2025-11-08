@@ -1,6 +1,7 @@
 # RandomUser.cs
 Web-API for [randomuser.me](https://randomuser.me) A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
 
+## Example
 ```cs
 using RandomUserApi;
 
